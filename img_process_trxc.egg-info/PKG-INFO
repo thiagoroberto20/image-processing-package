@@ -1,3 +1,15 @@
+Metadata-Version: 2.1
+Name: img-process-trxc
+Version: 0.0.1
+Summary: Image Processing Package using Skimage
+Home-page: https://github.com/thiagoroberto20/image-processing-package
+Author: Thiago Roberto
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: scikit-image>=0.16.1
+
 # package_name
 
 Description. 
